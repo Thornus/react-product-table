@@ -6,4 +6,4 @@ Products are divided by category and each one has a name, a price, a stock piece
 Users can search for a product by name, see only the products in stock, or see only the ones with a specific delivery type.
 
 ## Instructions
-Download the repo and use **npm start** to start the server, then navigate to **localhost:3000**.
+Use ```npm start``` to start the server, then navigate to **localhost:3000**.
